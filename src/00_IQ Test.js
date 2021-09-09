@@ -1,4 +1,5 @@
 // https://www.codewars.com/kata/552c028c030765286c00007d
+
 function iqTest(numbers){
     let arr = numbers.split(' ');
     let sum = 0;
